@@ -1,0 +1,8 @@
+[package]
+name = "bcd"
+version = "0.0.1"
+authors = ["seenees <code@seenees.de>"]
+description = "Binary-BCD-Binary conversion"
+repository = "https://github.com/seenees/double-dabble.rs.git"
+license = "MIT"
+edition = "2021"
